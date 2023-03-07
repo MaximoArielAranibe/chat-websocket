@@ -1,0 +1,37 @@
+                    GLOSARIO
+
+--Websocket: Protocolo de comunicación que permite una sesión activa entre el cliente y servidor.
+
+--Handshake: Acuerdo entre el cliente y servidor que permite establecer una conexión abierta entre ambos puntos.
+
+-----------------------------------------------------------------
+                    
+                    MAPA DE CONCEPTOS
+
+-----------------------------------------------------------------
+
+                    ¡ IMPORTANTE !
+
+A lo largo de la cursada, encontrarás clases que son fuertemente prácticas. Esto quiere decir que la mayoría de las diapositivas reflejan los pasos que el profesor seguirá a lo largo de la clase.
+
+¡Continúa con toda tu atención y sigue al profesor en el código!
+
+-----------------------------------------------------------------
+
+                    Aplicación chat con Websocket
+
+Como aprendimos la clase pasada, las aplicaciones de websockets son bastantes amplias. Una de las mejores formas de comprender la posibilidades que estos brindan, es construyendo un chat grupal o comunitario.
+
+Nuestro chat comunitario contará con:
+
+--Un formulario para poder identificarse, a través del cuale el usuario podrá elegir el nombre de usuario con el cual aparecerá en el chat.
+
+--Un cuadro de input sobre el cual el usuario podrá escribir el mensaje.
+
+--Un panel donde todos los usuarios conectados podrán visualizar los mensajes en tiempo real.
+
+--Una vez desarrollada esta aplicación, subiremos nuestro código a glitch.com, para que todos puedan utilizarlos.
+
+-----------------------------------------------------------------
+
+                Comencemos con el proyecto: from scratch
