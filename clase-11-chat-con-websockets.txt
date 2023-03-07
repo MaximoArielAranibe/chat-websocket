@@ -35,3 +35,11 @@ Nuestro chat comunitario contará con:
 -----------------------------------------------------------------
 
                 Comencemos con el proyecto: from scratch
+
+                
+---------------------------------------------------------------
+ Agregar en nodemodules para GLITCH:
+ 
+ "engines": {
+    "node": "18.x"
+  },
